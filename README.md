@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-22---Fading-Using-FadeIn
+Cocos2d-JS v3 Tutorial 22 - Fading Using FadeIn
 ===============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/DJrTVTWIJIM
